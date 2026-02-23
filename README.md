@@ -176,12 +176,19 @@ for:
 
 Graduation Project Team\
     Bassel Yasser Hussein Dahshan
+
     Ahmed Ramdan Atia Mansour
+
     Kareem Mamdouh Hassan Ibrahim
+
     Marwan Ahmed Ali Ahmed
+
     Ibrahim Hossam Ibrahim Mansour
+
     Huda Abd El-Nasser Taalab Haridy
+
     Sherin Sameh Abd El-Samad Ali
+
     Nadeen Ayman Mohamed Saied
 
 Electronics & Communication Engineering - Ain Shams University\
@@ -189,4 +196,5 @@ Academic Year 2023/2024
 
 ITI Team\
     Abdulrahman Galal
+    
     Ibrahim Yasser

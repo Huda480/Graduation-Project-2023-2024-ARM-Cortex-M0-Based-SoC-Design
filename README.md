@@ -111,14 +111,15 @@ Contains guide text files explaining:
 - How to use DO files from the scripts/ folder
 
 ------------------------------------------------------------------------
+## Binary Directories
 
-## sys_1\_bin/ and sys_2\_bin/
+The directories `sys_1_bin/` and `sys_2_bin/` are required to run the system.  
+Please create these directories in your project root and place your `.bin` files inside them.
 
-Contain binary (.bin) files to be loaded into memory to execute firmware
-on hardware or simulation for:
+- `sys_1_bin/` → Binary files for **System Configuration 1**
+- `sys_2_bin/` → Binary files for **System Configuration 2**
 
--   System Configuration 1
--   System Configuration 2
+Alternatively, you can change the parameter for the program path directly in the `full_system.sv` file to point to your own binary file locations.
 
 ------------------------------------------------------------------------
 

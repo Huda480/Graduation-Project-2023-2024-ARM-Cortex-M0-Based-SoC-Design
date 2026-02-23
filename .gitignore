@@ -1,0 +1,12 @@
+*.edf
+*.edif
+*.ngc
+*.net
+*.vo
+*.vqm
+*.bit
+*.bin
+*.vcd
+build/
+output/
+.dist

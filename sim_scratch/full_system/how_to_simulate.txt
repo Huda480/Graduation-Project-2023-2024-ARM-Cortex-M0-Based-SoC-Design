@@ -1,0 +1,7 @@
+how_to_simulate 
+
+first create a project in this folder 
+
+write this command in transcript in questasim
+
+do ../../scripts/simulation/full_system/run_sys.do

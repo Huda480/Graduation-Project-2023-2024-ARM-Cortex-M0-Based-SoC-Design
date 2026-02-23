@@ -174,7 +174,7 @@ for:
 
 # Authors
 
-Graduation Project Team\
+Graduation Project Team:
     
     Bassel Yasser Hussein Dahshan
 
@@ -195,7 +195,7 @@ Graduation Project Team\
 Electronics & Communication Engineering - Ain Shams University\
 Academic Year 2023/2024
 
-ITI Team\
+ITI Team:
     
     Abdulrahman Galal
 
